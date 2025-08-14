@@ -46,24 +46,29 @@ Ses dosyalarına gizli mesaj gömme işlemi, verinin gizliliği ve güvenliği i
 
    ```bash
    git clone https://github.com/leventDemirkaya/audioSteganography.git
-Visual Studio ile projeyi açın.
-NuGet Paket Yöneticisi'nden NAudio paketini yükleyin.
-Kullanım
-Programı çalıştırın.
-Ses Dosyası Ekle butonuna tıklayarak WAV formatında ses dosyaları seçin.
-Listeden bir ses dosyası seçin, ses otomatik olarak oynatılacaktır.
-Gizlemek istediğiniz mesajı metin kutusuna yazın (Türkçe karakter kullanmayınız).
-Mesajı Gizle butonuna tıklayın.
-Program, mesajı ses dosyasına gizleyip yeni bir WAV dosyası oluşturacak ve oynatacaktır.
-Teknolojiler
-C#
-Windows Forms
-NAudio kütüphanesi
-Katkıda Bulunma
+2. Visual Studio ile projeyi açın.
+3. NuGet Paket Yöneticisi'nden NAudio paketini yükleyin.
+   
+### Kullanım
+1. Programı çalıştırın.
+2. Ses Dosyası Ekle butonuna tıklayarak WAV formatında ses dosyaları seçin.
+3. Listeden bir ses dosyası seçin, ses otomatik olarak oynatılacaktır.
+4. Gizlemek istediğiniz mesajı metin kutusuna yazın (Türkçe karakter kullanmayınız).
+5. Mesajı Gizle butonuna tıklayın.
+6. Program, mesajı ses dosyasına gizleyip yeni bir WAV dosyası oluşturacak ve oynatacaktır.
+
+
+### Teknolojiler
+1. C#
+2. Windows Forms
+3. NAudio kütüphanesi
+
+
+### Katkıda Bulunma
 Katkılarınızı memnuniyetle karşılarız! Lütfen bir sorun açın veya geliştirme önerilerinizi içeren pull request gönderin.
 
-Lisans
+### Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
 
-İletişim
+### İletişim
 Levent Demirkaya - GitHub - leventdemirkaya@outlook.com
